@@ -1,0 +1,67 @@
+div.main {
+	width: 400px;
+	height: 600px;
+	padding: 10px;
+	background-color: gainsboro;
+}
+
+.head {
+	padding: 20px;
+}
+
+.center {
+	margin: 10px auto;
+}
+
+.display-block {
+	display: block;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.main-padding {
+	padding: 20px;
+}
+
+.button {
+	color: green;
+}
+
+
+.full {
+	width: 100%;
+}
+
+.display-inline {
+	display: inline;
+}
+
+.next-step {
+	padding-top: 15px;
+}
+
+.text-italic {
+	font-style: italic;
+}
+
+.primary-color-background {
+	background-color: bisque;
+}
+
+.primary-color-text {
+	color: black
+}
+
+/*font-size: 20px;
+font-weight: 200;
+font-family: "Arial";
+color: red;
+text-decoration: underline;
+text-align: middle;
+font-style: italic;
+text-align: center;
+
+line-height: 2;
+/**/
